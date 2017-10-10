@@ -25,7 +25,7 @@ options for supporting swift in cordova ios projects.
 ## Standard Installation
 First add the plugin to your project by
 
-    cordova add plugin https://github.com/happieio/cordova-plugin-couchbase-lite.git
+    cordova plugin add https://github.com/happieio/cordova-plugin-couchbase-lite.git
 
 ## Contributing
 Your Help in writing unit tests for Travis are very welcome and reporting or generating
